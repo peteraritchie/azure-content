@@ -20,6 +20,11 @@
  In order to build and run [Azure Service Fabric applications][1] on your development machine, you need to install the runtime, SDK, and tools. You also need to enable execution of the Windows PowerShell scripts included in the SDK.
 
 ## Prerequisites
+### Supported Visual Studio versions
+The following Visual Studio versions are supported for development:
+
+- Visual Studio 2015 Update 2
+
 ### Supported operating system versions
 The following operating system versions are supported for development:
 
